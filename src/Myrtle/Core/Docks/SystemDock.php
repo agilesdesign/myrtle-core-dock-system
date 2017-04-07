@@ -2,8 +2,8 @@
 
 namespace Myrtle\Core\Docks;
 
-use Myrtle\System\Policies\SystemPolicy;
-use Myrtle\System\Providers\SystemServiceProvider;
+use Myrtle\Core\System\Policies\SystemPolicy;
+use Myrtle\Core\System\Providers\SystemServiceProvider;
 
 class SystemDock extends Dock
 {
